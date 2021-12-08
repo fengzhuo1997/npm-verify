@@ -1,0 +1,22 @@
+{
+  "name": "verify",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000p\u0000m\u0000-\u0000v\u0000e\u0000r\u0000i\u0000f\u0000y\u0000\r\u0000 \u0000",
+  "main": "mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzhuo1997/npm-verify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengzhuo1997/npm-verify/issues"
+  },
+  "homepage": "https://github.com/fengzhuo1997/npm-verify#readme",
+  "dependencies": {
+    "mockjs": "^1.1.0"
+  }
+}
